@@ -2,6 +2,9 @@
 
 ---
 
+Admin: No class Monday; Reading Day
+---
+
 ### Deliverables due Wednesday, Oct 9 @ 5:00pm ET
 
 - Lab: Clustering Fidelity Mutual Funds
@@ -15,11 +18,11 @@
   - recommender systems (high-level concepts)
 
 - Lab: Recommender Systems Using Music Tracks from Autoscrobbler
+  
+- Journaling: Modules 4-6 completed
 
 
 ---
-
-- Review Jupyter Notebook: ML Feature Utilities
 
 - Review Jupyter Notebook: ML Pipelines
 
