@@ -1,4 +1,4 @@
-## DS 7200 Computing III Distributed Computing: Agenda 16
+## DS 7200 Computing III Distributed Computing: Agenda 17
 
 
 ---
@@ -16,9 +16,9 @@
 ---
 
 Tasks  
-- Demo of Amazon EC2
+- Discussion of IAM: users, roles, policies, permissions
 
-- Demo of Amazon S3  
-- Work on Lab together: Build Static Website with Amazon S3
+- Kick off Lab: Amazon S3/IAM/EC2
 
+- Time for group projects
 
